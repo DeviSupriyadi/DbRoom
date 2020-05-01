@@ -1,6 +1,6 @@
 package com.devisupriyadi.dbroom;
 
-/* Tangga Pengerjaan : 1 Mei 2020
+/* Tangga Pengerjaan : 2 Mei 2020
    Deskripsi         : Mengerjakan Main Activity
    NIM               : 10117181
    Nama              : Devi Tiana O S
